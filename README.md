@@ -1,3 +1,2 @@
-
- ###Snake Game
+#Snake Game
 <img src="images\img.png">
